@@ -1,0 +1,1 @@
+<p>Página usada para estudar MVC com o framework CodeIgniter.</p>
