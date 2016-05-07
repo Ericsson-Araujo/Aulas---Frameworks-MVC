@@ -1,4 +1,4 @@
-CRUD básico que fizem um estudo de CakePHP
+CRUD básico que fiz em um estudo de CakePHP
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
